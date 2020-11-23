@@ -1,0 +1,10 @@
+!*.sample
+.env*
+.next/
+*.DS_Store
+build
+node_modules
+npm-debug.log*
+out/
+yarn-debug.log*
+yarn-error.log*
